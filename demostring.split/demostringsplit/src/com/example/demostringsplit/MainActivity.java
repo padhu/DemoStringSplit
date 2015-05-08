@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-	/*	
+	/*//	Test Entry
 	 String[] splts=	"5K-00.004\r\nW-00.004\n12.000 Kg\r12.000 gm\n12.000 Gms".split("[\\'W'\'5K'\'Kg'\'Gms'\'gms'\'Gm'\'gm'\'Kgs'\'KG'\\s\' '\'']");
 		//5K00.004" & vbCrLf & "W-00.004" & vbCrLf & "W-00.004" & vbCrLf & "W-00.004" & vbCrLf & "W-00.004" & vbCrLf &		
 		String wt="";
